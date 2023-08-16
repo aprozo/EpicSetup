@@ -62,6 +62,8 @@ libgsl0-dev qtwebengine5-dev -y
 ```
 
 ### EIC specific
+
+# Download docker container:
 ``` bash
 docker pull eicweb/jug_xl:nightly
 docker run -itv /home/prozorov/eic:/home/prozorov/eic eicweb/jug_xl:nightly
@@ -71,17 +73,50 @@ cd /home/prozorov/eic/ && git clone https://github.com/eic/epic.git
 Now, one can start Docker service via Windows Desktop and run previous container (all changes will be saved in this particular container) 
 ![image](https://github.com/aprozo/SetupWSL/assets/33087030/2f8176f8-dbe2-4304-afb1-ca814d60778c)
 
+# Run in VS Code:
 to open VS Code within a running container:
+
 After starting a container, run ```bash code .``` anywhere on WSL2
+
 Then `Ctrl + P` , start typing:
+
 `>Dev Containers: Attach to a Running Container`
+
 Now VS Code is opened in a container.
 
+
+# Helpful features for VS Code programming:
 Include paths on docker for .vscode config file for all eic libraries:
 
 "/usr/local/include/**",
 
 "/opt/software/linux-debian-x86_64_v2/gcc-12.2.0/root-6.26.10-ypxsyrtxgzrojuy7ainximgo4er5zmmz/include"
+
+in project folder create `.vscode/c_cpp_properties.json` with the following lines:
+
+```cpp 
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/**",
+                "/opt/software/linux-debian-x86_64_v2/gcc-12.2.0/root-6.26.10-ypxsyrtxgzrojuy7ainximgo4er5zmmz/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "compileCommands": "${workspaceFolder}/epic/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
+```
+
+
 
 ## EPIC geometry run: 
 use the following commands and create a `run.sh` file in the `../eic/epic/` to fastly run everything:

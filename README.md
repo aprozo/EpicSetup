@@ -5,6 +5,7 @@ Visual Studio Code https://code.visualstudio.com/download
 Docker https://docs.docker.com/desktop/install/windows-install/
 
 apply integration to wsl2:
+
 ![image](https://github.com/aprozo/SetupWSL/assets/33087030/21f471b8-709c-40fe-9869-0b5d90cef718)
 
 
@@ -66,12 +67,15 @@ docker pull eicweb/jug_xl:nightly
 docker run -itv /home/prozorov/eic:/home/prozorov/eic eicweb/jug_xl:nightly
 cd /home/prozorov/eic/ && git clone https://github.com/eic/epic.git
 ```
+
 Now, one can start Docker service via Windows Desktop and run previous container (all changes will be saved in this particular container) 
 ![image](https://github.com/aprozo/SetupWSL/assets/33087030/2f8176f8-dbe2-4304-afb1-ca814d60778c)
 
 
 Include paths on docker for .vscode config file for all eic libraries:
+
 "/usr/local/include/**",
+
 "/opt/software/linux-debian-x86_64_v2/gcc-12.2.0/root-6.26.10-ypxsyrtxgzrojuy7ainximgo4er5zmmz/include"
 
 ## EPIC geometry run: 

@@ -71,6 +71,11 @@ cd /home/prozorov/eic/ && git clone https://github.com/eic/epic.git
 Now, one can start Docker service via Windows Desktop and run previous container (all changes will be saved in this particular container) 
 ![image](https://github.com/aprozo/SetupWSL/assets/33087030/2f8176f8-dbe2-4304-afb1-ca814d60778c)
 
+to open VS Code within a running container:
+After starting a container, run ```bash code .``` anywhere on WSL2
+Then `Ctrl + P` , start typing:
+`>Dev Containers: Attach to a Running Container`
+Now VS Code is opened in a container.
 
 Include paths on docker for .vscode config file for all eic libraries:
 

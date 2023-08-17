@@ -76,11 +76,11 @@ Now, one can start Docker service via Windows Desktop and run previous container
 # Run in VS Code:
 to open VS Code within a running container:
 
-After starting a container, run ```bash code .``` anywhere on WSL2
+After starting a container, run ``` code .``` anywhere on WSL2
 
 Then `Ctrl + P` , start typing:
 
-`>Dev Containers: Attach to a Running Container`
+`>Dev Containers: Attach to a Running Container`, and attach it to the new container
 
 Now VS Code is opened in a container.
 

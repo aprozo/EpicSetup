@@ -9,7 +9,7 @@
 
 
 ### Programming tutorials
-* [Essentials C++ presentation](https://indico.cern.ch/event/1266661/attachments/2711308/4694049/Essentials.pdf) + video (https://indico.cern.ch/event/1266661/)
+* [HEP Essentials C++ course presentation](https://indico.cern.ch/event/1266661/attachments/2711308/4694049/Essentials.pdf) + video (https://indico.cern.ch/event/1266661/)
 * [A ROOT Guide For Beginners](https://root.cern.ch/root/htmldoc/guides/primer/ROOTPrimer.html)
 * [Git one page guide](https://rogerdudler.github.io/git-guide/index.html)
 * [Scientific computing resources](https://hepsoftwarefoundation.org/training/center.html)

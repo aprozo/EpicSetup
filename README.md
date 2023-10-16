@@ -1,4 +1,12 @@
 # Usefull links and tutorials
+
+
+### BNL account
+ 1. Start here for the GUEST NUMBER (**GR**) takes ~ 40 days: https://guest.bnl.gov/home/newRegistration
+ 2. Ask for computing account https://www.sdcc.bnl.gov/information/getting-started/new-user-account
+
+
+
 ### Epic tutorials and links
 * [EPIC Landing Page](https://eic.github.io/documentation/landingpage.html)
 * [Tutorial: Setting Up EIC Environment](https://eic.github.io/tutorial-setting-up-environment/02-eic-shell/index.html)
@@ -6,6 +14,8 @@
 * Main web page of EPIC experiment : https://wiki.bnl.gov/EPIC
 * Indico Set of Tutorials about EPIC (https://indico.bnl.gov/category/443/)
 * [Quick start tutorial on ATHENA detector design and simulation](https://eic.phy.anl.gov/tutorials/eic_tutorial/getting-started/quickstart)
+* DD4HEP library [manual](https://dd4hep.web.cern.ch/dd4hep/usermanuals/DD4hepManual/DD4hepManual.pdf)  and [code reference](https://dd4hep.web.cern.ch/dd4hep/reference/)
+
 
 
 ### Programming tutorials

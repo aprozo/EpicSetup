@@ -1,3 +1,38 @@
+# Usefull links and tutorials
+### Epic tutorials and links
+* [EPIC Landing Page](https://eic.github.io/documentation/landingpage.html)
+* [Tutorial: Setting Up EIC Environment](https://eic.github.io/tutorial-setting-up-environment/02-eic-shell/index.html)
+  
+* Main web page of EPIC experiment : https://wiki.bnl.gov/EPIC
+* Indico Set of Tutorials about EPIC (https://indico.bnl.gov/category/443/)
+* [Quick start tutorial on detector design and simulation](https://eic.phy.anl.gov/tutorials/eic_tutorial/getting-started/quickstart)
+
+
+### Programming tutorials
+* [Essentials C++ presentation](https://indico.cern.ch/event/1266661/attachments/2711308/4694049/Essentials.pdf) + video (https://indico.cern.ch/event/1266661/)
+* [A ROOT Guide For Beginners](https://root.cern.ch/root/htmldoc/guides/primer/ROOTPrimer.html)
+* [Git one page guide](https://rogerdudler.github.io/git-guide/index.html)
+* [Scientific computing resources](https://hepsoftwarefoundation.org/training/center.html)
+
+
+
+
+### Physics literature
+
+  1. A. Accardi   et al.,“Electron-Ion Collider: The next QCD frontier: Understanding the glue that binds us all", Eur. Phys. J. A (2016) 52: 268. https://link.springer.com/content/pdf/10.1140/epja/i2016-16268-9.pdf
+  2. Ch. Wood and M. Sherman,“Inside the Proton, the ‘Most Complicated Thing You Could Possibly Imagine“,  Quantamagazine, October 19, 2022.https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
+  3. R. A. Khalek et al., “Science Requirements and Detector Concepts for the Electron-Ion Collider: EIC Yellow Report, Nucl. Phys. A 1026 (2022) 122447.
+[link](https://pdf.sciencedirectassets.com/271584/1-s2.0-S0375947422X00092/1-s2.0-S0375947422000677/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFoaCXVzLWVhc3QtMSJHMEUCIHtbt%2FS4KHiWKc5LLPKJgVZ3JgzzzaLSpdf2I9HyKDu6AiEAs4MAiDYJPGDAcE4sjWNH3EOwesxxOzjaMjgw33ufO5cqswUIcxAFGgwwNTkwMDM1NDY4NjUiDIBoo0%2FFU1o%2Bmt0MUSqQBSbUAX7zyfaVYxoVNnsbp6k9kfEsCfBkFnNEr9d%2FKznbQ%2F2DCCxYJbHKo3gt%2FrNavetf2ybhKhU%2BPIK6ead8uwPQ7wU7lADCcAO4eWFNfSeKko8Oxs1tFS0EPvk8g8Q7W6S9Y%2BIMWQqlx2HGZKhHknfo%2Foxj%2F0tzLpmEIvqoOKCYceyQ6lsqI4Qq%2FEJ2SGDvM4zZgaM3zchdRK8VzDxewD7HcLK%2FGQjFgCYpqKKnx0sgL3nWXo2BIMpbwd6WMQTHLb6lyAjY78sRPNPQJoA5j3pgvpa%2BYSCPFY01iUqnl0WFUuM2kknDm0vW10vcDjlqBv2DP%2FPOb2ixEHJtU70T6JjSHyqKn0RlwYendFIQQ9rrDS4xgnPR%2F%2BU50Cf1LPrMnP9DaggVi7i8jszpYQ5puqh2C2uHKezokESBlznYV1na5CgxrGLheMVdspzr0jeNx5nrAwtTcH9nlLSpLxGIRrWxAVfJquwgxsvhxvQXpXCu0vM%2BzwSadltLwbGX2oUkeLdq0Jo2kVr19viZuwNDE1JvmLXtemBMSgUh4cqW0S9sMgmoJ5rb4XNn%2F1KV0L%2F0iU9B06n%2Bx%2Fp3BIyR8MiJXk2Kah0raJAWctH0LwWmOCyy1x83UqpAZ5HjsmuB6hIQsK%2BGIifzt8ACtR7Aq%2BVZ%2Fi4slZL7vxuws4YCQMc5SwRg%2FGkXmoDco6vwegN6bBdmamFattOn23XLsTcedFaCnI0WVlDcFFH8brQQCb9Pwq718sgGqeZLmi28w2LPoRy6pH6bJItU3oYtXXxazMHsfYOWLBhGgqMi8OEwRiROOE6aJ0vTod1RX2Y%2FnwkkNw9%2BRvqTtTGsEqW%2FrN9DphhZBCRe999bQKpyJgYofLJG2%2BW6MMaPtKkGOrEBT2mZFvpXWiuxE6V%2Fbz9i6XyTdTsp7zuSwy4ScnlutYglqmZru8p6mHvhwm0kHMF%2F1xxs3Ld2iXWJoQoaZBW%2FbtxnlpCFymGO0g6ZEykMqc6uFXJ%2Bxo%2FmUjXzzJ%2BFOghm4029GS%2BREMD58PF1nqodtnp0LOb%2B3k6YWxPtYn3nx%2FU4MyVyhgyOiKirHJiIYeGm%2FMiMCfvjuaGNk%2Fq2QBMXH%2Byme1ZyqPQXvAuHhac2I86y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231016T104026Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7MC7WCRO%2F20231016%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=412a307e409cd669fac3ebf348c5dd3eb6f8096b720886ad67534121b35aad4c&hash=2547120c33cd7fe10673d553ae50b377b5bdb4725968e3512780e745f1a1b18e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0375947422000677&tid=spdf-6e2b19a3-5c5e-4a39-a1c5-b4d6fab321c3&sid=cb17b8103353d44f5578e71-8cf295391af1gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=05195751550105025e51&rr=816faf01e956277c&cc=cz)
+  4. M. Livan and  R. Wigmans, “Calorimetry for Collider Physics, an Introduction“, ISBN 978-3-030-23652-6, Springer Nature Switzerland AG 2019.
+  5. B. Povh et al., Particles and Nuclei, An Introduction to Physical Concepts, ISBN: 978-3-640-79367-0,  Springer 2008.
+https://eprints.ukh.ac.id/id/eprint/207/1/2015_Book_ParticlesAndNuclei.pdf
+
+
+
+---
+
+
+
 ## Install on Windows
 
 Visual Studio Code https://code.visualstudio.com/download

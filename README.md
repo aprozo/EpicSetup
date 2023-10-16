@@ -5,7 +5,7 @@
   
 * Main web page of EPIC experiment : https://wiki.bnl.gov/EPIC
 * Indico Set of Tutorials about EPIC (https://indico.bnl.gov/category/443/)
-* [Quick start tutorial on detector design and simulation](https://eic.phy.anl.gov/tutorials/eic_tutorial/getting-started/quickstart)
+* [Quick start tutorial on ATHENA detector design and simulation](https://eic.phy.anl.gov/tutorials/eic_tutorial/getting-started/quickstart)
 
 
 ### Programming tutorials
